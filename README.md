@@ -4,3 +4,5 @@ This project focused on replicating the results found in [an article](https://ww
 
 The paper developed a two repressor system using CRISPR to create a high specificity NOR gate, improving
 upon previous developments by vastly reducing the leakiness of the system.
+
+For more information about what we did, please read our paper.
